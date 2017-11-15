@@ -1,5 +1,7 @@
 # react-truffle
 
+It is just a todo-list working with smart contracts
+
 ## Prerequisites
 
 ```
