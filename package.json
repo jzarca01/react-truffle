@@ -6,6 +6,8 @@
     "react": "^16.1.0",
     "react-dom": "^16.1.0",
     "react-scripts": "1.0.17",
+    "truffle": "^4.0.1",
+    "truffle-contract": "^3.0.1",
     "web3": "ethereum/web3.js"
   },
   "scripts": {
